@@ -11,3 +11,5 @@ The script navigates through the staff directory, extracts teacher names, titles
 - BeautifulSoup4
 - pandas
 - webdriver-manager
+
+Additionally, this repository includes a file named `school_data_subset.csv` containing government data about every school in California. This file provides information about each school's address, type, and other relevant details.
